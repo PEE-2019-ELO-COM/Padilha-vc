@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -51,3 +52,4 @@ printf("Voce precisa tirar %.2f na VF !", nota_vf);
 
 return 0;
 }
+
